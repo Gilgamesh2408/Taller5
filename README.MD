@@ -1,11 +1,11 @@
-#Para instalar el framework express
+# Para instalar el framework express
 
 npm install express
 
-#Para instalar nodemon 
+# Para instalar nodemon 
 
 npm i nodemon
 
-#Para iniciar el servidor 
+# Para iniciar el servidor 
 
 npm run start
